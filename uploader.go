@@ -1,4 +1,4 @@
-package p
+package l2gp
 
 import (
 	"bytes"
